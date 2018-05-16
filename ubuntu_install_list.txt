@@ -1,0 +1,49 @@
+# ubuntu hacking gear
+# without '#' could likely be installed with apt get
+# write a script which would auto download these tools & save to usb
+# upgrade firefox & install extensions for hacking
+--------
+web/pip
+--------
+burpsuite	# from website
+msfconsole	# from website
+chrome		# from website
+setoolkit	# from git
+wafw00f		# from pip (pip install wafw00f)
+
+update
+upgrade
+
+--------
+apt-get
+--------
+ruby
+pip3
+pip
+atom
+aircrack-ng
+airmon-ng
+airodump-ng
+nmap
+zenmap
+nikto
+netdiscover
+whois
+traceroute
+bum
+sendemail
+macchanger
+reaver
+hydra
+medusa
+john
+libimage-exiftool-perl
+foremost
+openssh-server
+apache2
+ettercap-common
+curl
+httrack
+sqlmap
+cewl
+sslstrip
